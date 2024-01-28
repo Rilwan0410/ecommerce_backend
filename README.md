@@ -20,4 +20,4 @@ This is an ecommerce backend that allows use crud operations to search, add, upd
 ## Links
 Link to GitHub Repository: https://github.com/Rilwan0410/ecommerce_backend   
 
-Link to Video Walkthrough Submission: 
+Link to Video Walkthrough Submission: https://watch.screencastify.com/v/9iPuoiMTPSk6obcUrEfs  
